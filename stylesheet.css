@@ -1,0 +1,10 @@
+body{
+    background-color: #18191a;
+    color: white;
+}
+header section{
+    background-color: #242526;
+    border-radius: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
