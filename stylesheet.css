@@ -1,10 +1,64 @@
-body{
-    background-color: #18191a;
-    color: white;
+body {
+    background-color: #282a36;
+    font-family: 'Lato', sans-serif;
+    color: #f8f8f2;
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: justify;
+
 }
-header section{
-    background-color: #242526;
-    border-radius: 5px;
+
+img {
     margin-left: 10px;
     margin-right: 10px;
+    border-radius: 100%;
+    border: #44475a 10px solid;
+    width: 150px;
+    height: 150px;
+    transform: translatey(25%);
+
+}
+
+
+header section h1 {
+    color: #f8f8f2;
+}
+
+h3 {
+    color: #50fa7b;
+}
+
+header h3 {
+    color: #f8f8f2;
+}
+
+header section {
+    background-color: #44475a;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+#nome {
+    display: block;
+}
+
+section {
+    display: flex;
+    margin-top: 50px;
+}
+
+div {
+    border-left: 1px solid #f8f8f2;
+    border-radius: 5px;
+    height: auto;
+    margin-left: 10px;
+}
+
+body section article {
+    margin-left: 15px;
+}
+
+nav {
+    max-width: 30%;
+
 }
